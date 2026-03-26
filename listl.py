@@ -6,3 +6,5 @@ def list_details(lst):
     print("Size:", sys.getsizeof(lst))
 
 list_details([1, 2, 3])
+
+list_details([1,2,3])
